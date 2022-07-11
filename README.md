@@ -1,5 +1,7 @@
 # LSE_DA201_COVID_Analysis_Michelle_Halpin
 
+# View presentation at: https://www.loom.com/share/a239ea4bd00a43c9b02c60a0d8ae3067
+
 ### Assignment Brief
 
 To act as a data analyst working with the UK government to analyse COVID-19 data (from January 2020 to October 2021).
